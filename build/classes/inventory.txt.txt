@@ -1,0 +1,16 @@
+1
+Laptop
+Study Table
+LGVD12345
+true
+50000
+03/22/2016
+HP World
+Random
+C:\Users\mahad\OneDrive\Pictures\2271
+SD
+On Study Table
+SDK
+true
+0.00
+10/14/2020
